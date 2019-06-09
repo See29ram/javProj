@@ -12,8 +12,8 @@ public class WhileLoop {
 			a=a+1;
 			
 		}
-		
-		
+		System.out.println("End of the loop");
+		System.out.println("End of the loop-removed in master");
 	}
 	
 }
